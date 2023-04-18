@@ -1,7 +1,8 @@
 /* Imports */
 @import "https://monstrousdev.github.io/themes/phoenix-bundle/base.css";
-
-
+@import "https://monstrousdev.github.io/themes/addons/overHeadServers.css";
+@import "https://monstrousdev.github.io/themes/addons/minimalServerMenu.css";
+@import "https://monstrousdev.github.io/themes/addons/slideDownStatus.css";
 /* Variables */
 
 :root {
